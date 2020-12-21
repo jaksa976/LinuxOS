@@ -1,4 +1,5 @@
-<ul>
+<b>Custom Linux OS for Termux</b><br><br>
+<b>USAGE : </b><ul>
 <li>$ apt update</li>
 <li>$ apt install python2</li>
 <li>$ apt install git</li>
